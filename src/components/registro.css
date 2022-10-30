@@ -1,0 +1,22 @@
+.h1reg{
+    color: #CE7578;
+}
+
+input{
+    
+    height: 20%;
+    margin: 2%;
+}
+.containerreg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 9%;
+}
+
+.btn-reg{
+    width: 30%;
+}
+

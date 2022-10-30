@@ -1,0 +1,39 @@
+.tortas a{
+    display: flex;
+flex-direction: column;
+color: #CE7578;
+
+}
+.cards{
+    flex-direction: row;
+    margin-bottom: 5%;
+    color: #CE7578;
+}
+
+.tortas a:hover{
+display: flex;
+flex-direction: column;
+color:brown;
+}
+.row-tienda{
+    justify-content: flex-end;
+    margin-left: 0.1%;
+}
+.buscar{
+    width: 50%;
+}
+div input{
+    height: 70%;
+}
+
+.row-busqueda{
+   display: flex;
+   
+}
+
+.h1-tienda{
+    color: #CE7578;
+}
+.color-tienda{
+    color: #CE7578;
+}
